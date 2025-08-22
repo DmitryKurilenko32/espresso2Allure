@@ -1,7 +1,7 @@
 {
     "name": "testName",
-    "start": 1754495373865,
-    "stop": 1754495379182,
+    "start": 1755895247977,
+    "stop": 1755895256604,
     "stage": "finished",
     "description": null,
     "descriptionHtml": null,
@@ -13,7 +13,7 @@
     ],
     "parameters": [
     ],
-    "uuid": "b980bdd2-8386-4a41-a8f8-59ea5b6caf18",
+    "uuid": "da8bd122-9705-4b1a-9757-930c05fea35c",
     "historyId": "5a0cd6c136884b382c3ae823f9d63a6c",
     "fullName": "ru.kkuzmichev.simpleappforespresso.EspressoTest.testName",
     "labels": [

@@ -1,7 +1,7 @@
 {
-    "name": "testName",
-    "start": 1754496997863,
-    "stop": 1754497004068,
+    "name": "mainActivityTest",
+    "start": 1755897170060,
+    "stop": 1755897178449,
     "stage": "finished",
     "description": null,
     "descriptionHtml": null,
@@ -13,9 +13,9 @@
     ],
     "parameters": [
     ],
-    "uuid": "95201a9b-dedb-458a-b252-94f1eb4bbbe5",
-    "historyId": "5a0cd6c136884b382c3ae823f9d63a6c",
-    "fullName": "ru.kkuzmichev.simpleappforespresso.EspressoTest.testName",
+    "uuid": "83197112-0a4e-4544-9653-bdd1707e975d",
+    "historyId": "7116a3b52ae2cd65ff7351e0fe6a14a5",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.TestTitle7.mainActivityTest",
     "labels": [
         {
             "name": "package",
@@ -23,15 +23,15 @@
         },
         {
             "name": "testClass",
-            "value": "ru.kkuzmichev.simpleappforespresso.EspressoTest"
+            "value": "ru.kkuzmichev.simpleappforespresso.TestTitle7"
         },
         {
             "name": "testMethod",
-            "value": "testName"
+            "value": "mainActivityTest"
         },
         {
             "name": "suite",
-            "value": "ru.kkuzmichev.simpleappforespresso.EspressoTest"
+            "value": "ru.kkuzmichev.simpleappforespresso.TestTitle7"
         },
         {
             "name": "host",
@@ -39,7 +39,7 @@
         },
         {
             "name": "thread",
-            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(56)"
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(57)"
         },
         {
             "name": "framework",

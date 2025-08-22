@@ -1,7 +1,7 @@
 {
     "name": "testIntent",
-    "start": 1755887951517,
-    "stop": 1755888005016,
+    "start": 1755895148554,
+    "stop": 1755895152895,
     "stage": "finished",
     "description": null,
     "descriptionHtml": null,
@@ -13,7 +13,7 @@
     ],
     "parameters": [
     ],
-    "uuid": "d64d9e7f-7b1e-480a-8399-d06c1e72e624",
+    "uuid": "32bca41d-350e-46e1-9e55-92ad56f32eab",
     "historyId": "68659161fe450424b5892a2f3604c711",
     "fullName": "ru.kkuzmichev.simpleappforespresso.EspressoTest.testIntent",
     "labels": [
@@ -39,7 +39,7 @@
         },
         {
             "name": "thread",
-            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(42)"
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(56)"
         },
         {
             "name": "framework",

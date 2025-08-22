@@ -1,7 +1,7 @@
 {
-    "name": "testName",
-    "start": 1754495535779,
-    "stop": 1754495539652,
+    "name": "mainActivityTest",
+    "start": 1755897112825,
+    "stop": 1755897121462,
     "stage": "finished",
     "description": null,
     "descriptionHtml": null,
@@ -13,9 +13,9 @@
     ],
     "parameters": [
     ],
-    "uuid": "75599d9b-f9b6-4685-af74-0323509b90f5",
-    "historyId": "5a0cd6c136884b382c3ae823f9d63a6c",
-    "fullName": "ru.kkuzmichev.simpleappforespresso.EspressoTest.testName",
+    "uuid": "af53db33-0c93-4f54-9ee6-1473f532494e",
+    "historyId": "7116a3b52ae2cd65ff7351e0fe6a14a5",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.TestTitle7.mainActivityTest",
     "labels": [
         {
             "name": "package",
@@ -23,15 +23,15 @@
         },
         {
             "name": "testClass",
-            "value": "ru.kkuzmichev.simpleappforespresso.EspressoTest"
+            "value": "ru.kkuzmichev.simpleappforespresso.TestTitle7"
         },
         {
             "name": "testMethod",
-            "value": "testName"
+            "value": "mainActivityTest"
         },
         {
             "name": "suite",
-            "value": "ru.kkuzmichev.simpleappforespresso.EspressoTest"
+            "value": "ru.kkuzmichev.simpleappforespresso.TestTitle7"
         },
         {
             "name": "host",
