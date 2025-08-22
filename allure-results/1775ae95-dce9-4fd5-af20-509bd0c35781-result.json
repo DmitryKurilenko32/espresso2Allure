@@ -1,0 +1,56 @@
+{
+    "name": "testIntent",
+    "start": 1755887196536,
+    "stop": 1755887210629,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "failed",
+    "statusDetails": {
+        "message": "Wanted to match 1 intents. Actually matched 0 intents.\n\nIntentMatcher: has data: is <https://www.google.com>\n\nMatched intents:[]\n\nRecorded intents:\n-Intent { act=android.intent.action.VIEW dat=https://google.com/... } handling packages:[[]])",
+        "trace": "junit.framework.AssertionFailedError: Wanted to match 1 intents. Actually matched 0 intents.\n\nIntentMatcher: has data: is <https://www.google.com>\n\nMatched intents:[]\n\nRecorded intents:\n-Intent { act=android.intent.action.VIEW dat=https://google.com/... } handling packages:[[]])\n\tat junit.framework.Assert.fail(Assert.java:50)\n\tat androidx.test.espresso.intent.VerificationModes$Times.verify(VerificationModes.java:80)\n\tat androidx.test.espresso.intent.Intents.internalIntended(Intents.java:350)\n\tat androidx.test.espresso.intent.Intents$3.run(Intents.java:208)\n\tat androidx.test.espresso.intent.Intents$PropogatingRunnable.run(Intents.java:228)\n\tat java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:524)\n\tat java.util.concurrent.FutureTask.run(FutureTask.java:317)\n\tat android.app.Instrumentation$SyncRunnable.run(Instrumentation.java:2598)\n\tat android.os.Handler.handleCallback(Handler.java:995)\n\tat android.os.Handler.dispatchMessage(Handler.java:103)\n\tat android.os.Looper.loopOnce(Looper.java:248)\n\tat android.os.Looper.loop(Looper.java:338)\n\tat android.app.ActivityThread.main(ActivityThread.java:8982)\n\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:593)\n\tat com.android.internal.os.ZygoteInit.main(ZygoteInit.java:932)\n"
+    },
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "1775ae95-dce9-4fd5-af20-509bd0c35781",
+    "historyId": "68659161fe450424b5892a2f3604c711",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.EspressoTest.testIntent",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.EspressoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIntent"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.EspressoTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
